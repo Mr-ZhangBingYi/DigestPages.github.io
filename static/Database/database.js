@@ -83,7 +83,7 @@ export default {
 		},
 	],
 	// 经济-理财-价值
-	Aavatar: [{
+	avatar: [{
 			chapter: '第一章',
 			time: '2022-08-22+ ',
 			text: [{
