@@ -1,0 +1,30 @@
+.books {
+	width: 28%;
+	height: 250rpx;
+	margin: 30rpx 2.5%;
+	padding: 0 20rpx;
+	background-color: antiquewhite;
+	text-align: center;
+	line-height: 250rpx;
+}
+
+.book {
+	margin-top: 50rpx;
+	display: flex;
+	/* 自动换行 */
+	flex-wrap: wrap;
+	/* border: 1px solid black; */
+}
+
+.cu-item {
+	width: 30%;
+	text-align: center;
+}
+
+page {
+	padding-top: 45rpx;
+}
+
+.titlename {
+	width: 43% !important;
+}
