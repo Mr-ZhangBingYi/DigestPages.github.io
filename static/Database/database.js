@@ -255,6 +255,15 @@ export default {
 			name: '黄帝内经',
 			url: './/pages/basics/Medical _Science/HuangDi'
 		}, {
+			name: "伤寒论",
+			url: ''
+		}, {
+			name: "金匮要略",
+			url: ''
+		}, {
+			name: "温病论",
+			url: ''
+		}, {
 			name: "",
 			url: ''
 		},
