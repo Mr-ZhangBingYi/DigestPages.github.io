@@ -955,8 +955,37 @@ export default {
 
 
 	// 音乐
+	// 英文歌
+	EnglishSongs: [{
+		src: '../../static/muisc/TakeMeHand.mp3',
+		controls: true,
+		loop: true,
+		name: 'Take Me Hand',
+		author: 'Cécile Corbel',
+		poster: 'https://img0.baidu.com/it/u=2529374063,2699338275&fm=253&fmt=auto&app=138&f=PNG?w=500&h=500',
+		txt: '您目前的设备不支持音频播放',
+	}, {
+		src: '../../static/muisc/MyHeartWillGoOn.mp3',
+		controls: true,
+		loop: true,
+		name: 'My Heart Will Go On',
+		author: 'Céline Dion',
+		poster: 'https://img1.baidu.com/it/u=2370060299,2847917956&fm=253&fmt=auto&app=138&f=PNG?w=320&h=320',
+		txt: '您目前的设备不支持音频播放',
+	}, {
+		src: '../../static/muisc/ScarboroughFair.mp3',
+		controls: true,
+		loop: true,
+		name: 'ScarboroughFair',
+		author: 'Sarah Brightman	',
+		poster: 'https://img2.baidu.com/it/u=2850331982,3967737223&fm=253&fmt=auto&app=138&f=JPEG?w=300&h=298',
+		txt: '您目前的设备不支持音频播放',
+	}, ],
+	// 纯音乐
 
-	music: [{
+	AbsoluteMusic: [
+
+		{
 			src: '../../static/muisc/WoAiNi.mp3',
 			controls: true,
 			loop: true,
