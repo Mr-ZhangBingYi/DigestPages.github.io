@@ -1076,6 +1076,15 @@ export default {
 			poster: 'https://img0.baidu.com/it/u=2092023985,3250666235&fm=253&fmt=auto&app=138&f=JPEG?w=499&h=331',
 			txt: '您目前的设备不支持音频播放',
 		},
+		{
+			src: '../../static/muisc/jiandanai.mp3',
+			controls: true,
+			loop: true,
+			name: '简单爱',
+			author: '周杰伦',
+			poster: 'https://img0.baidu.com/it/u=2092023985,3250666235&fm=253&fmt=auto&app=138&f=JPEG?w=499&h=331',
+			txt: '您目前的设备不支持音频播放',
+		},
 	]
 
 }
